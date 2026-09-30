@@ -16,7 +16,8 @@ When creating a new note, you can use this structure:
 
 ## Commands
 
-`command` - what it does
+`command` - what it does  
+
 
 ## Examples
 
@@ -25,7 +26,7 @@ When creating a new note, you can use this structure:
 ## What I Learned
 
 (your own summary)
-```
+
 
 ## Your Notes
 

@@ -11,7 +11,7 @@ When documenting a lab, include:
 
 ## Objective
 
-What was the goal?
+What was the goal? I need to get this done 
 
 ## Commands Used
 
